@@ -58,7 +58,7 @@
 
 ###
 
-<p align="left">🇩🇪 German – Native speaker<br>🇬🇧 English – Fluent (B2)<br>🇱🇹 Latin – Basic knowledge (A2)</p>
+<p align="left">🇩🇪 German – Native speaker<br>🇬🇧 English – Fluent (B2)<br> Latin – Basic knowledge (A2)</p>
 
 ###
 
